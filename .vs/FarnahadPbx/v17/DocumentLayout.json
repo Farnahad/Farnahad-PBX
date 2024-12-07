@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farnahad\\source\\repos\\FarnahadPbx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA2BF0-D76E-405C-A352-1E4904292170}|FarnahadPbx\\FarnahadPbx.csproj|c:\\users\\farnahad\\source\\repos\\farnahadpbx\\farnahadpbx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EA2BF0-D76E-405C-A352-1E4904292170}|FarnahadPbx\\FarnahadPbx.csproj|solutionrelative:farnahadpbx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EA2BF0-D76E-405C-A352-1E4904292170}|FarnahadPbx\\FarnahadPbx.csproj|c:\\users\\farnahad\\source\\repos\\farnahadpbx\\farnahadpbx\\farnahadpbx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51EA2BF0-D76E-405C-A352-1E4904292170}|FarnahadPbx\\FarnahadPbx.csproj|solutionrelative:farnahadpbx\\farnahadpbx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FarnahadPbx",
+              "DocumentMoniker": "C:\\Users\\Farnahad\\source\\repos\\FarnahadPbx\\FarnahadPbx\\FarnahadPbx.csproj",
+              "RelativeDocumentMoniker": "FarnahadPbx\\FarnahadPbx.csproj",
+              "ToolTip": "C:\\Users\\Farnahad\\source\\repos\\FarnahadPbx\\FarnahadPbx\\FarnahadPbx.csproj",
+              "RelativeToolTip": "FarnahadPbx\\FarnahadPbx.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T12:06:38.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farnahad\\source\\repos\\FarnahadPbx\\FarnahadPbx\\Program.cs",
+              "RelativeDocumentMoniker": "FarnahadPbx\\Program.cs",
+              "ToolTip": "C:\\Users\\Farnahad\\source\\repos\\FarnahadPbx\\FarnahadPbx\\Program.cs",
+              "RelativeToolTip": "FarnahadPbx\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:30:02.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
